@@ -5,4 +5,4 @@
 # The code below almost works
 
 name = raw_input("Enter your name")
-print "Hello %s" % name
+print ("Hello " +name)
